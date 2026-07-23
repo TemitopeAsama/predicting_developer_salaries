@@ -75,10 +75,7 @@ developer-salary-predictors/
 ├── notebooks/
 │   ├── 01_data_understanding.ipynb
 │   ├── 02_data_cleaning.ipynb
-│   ├── 03_exploratory_data_analysis.ipynb
-│   ├── 04_feature_engineering.ipynb
-│   ├── 05_modeling.ipynb
-│   └── 06_evaluation.ipynb
+│   └── 03_exploratory_data_analysis.ipynb
 │
 ├── src/
 │   ├── preprocessing.py
