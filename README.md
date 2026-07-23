@@ -95,20 +95,20 @@ developer-salary-predictors/
 
 Current variables include:
 
-- MainBranch
-- Age
-- EdLevel
-- Employment
-- WorkExp
-- YearsCode
-- DevType
-- Industry
-- ToolCountWork
-- ToolCountPersonal
+- `MainBranch`
+- `Age`
+- `EdLevel`
+- `Employment`
+- `WorkExp`
+- `YearsCode`
+- `DevType`
+- `Industry`
+- `ToolCountWork`
+- `ToolCountPersonal`
 
 ### Target Variable
 
-- ConvertedCompYearly
+- `ConvertedCompYearly`
 
 ---
 
